@@ -6,7 +6,6 @@ I have tested it many times and worked great.
 It has included:
 - `Hardware` (Included hardware layers)
 - `Pictures` (Included photos samples made)
-- `Simulate` (Included simulator file)
 
 ### Picture: v1.0
 ![](Pictures/v1.0.jpg)

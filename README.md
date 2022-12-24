@@ -1,4 +1,9 @@
 ## Electronic Projects without MCU
+It's an archive of electronic projects. There are simple circuits, but useful.
  
-### PIR Alarm
-![](PIR-Alarm/Pictures/v1.0.jpg)
+### Gallery of the Repository
+![](PIR-Alarm/Pictures/Album.jpg)
+![](PIR-Alarm/Pictures/Album.jpg)
+![](PIR-Alarm/Pictures/Album.jpg)
+![](PIR-Alarm/Pictures/Album.jpg)
+![](PIR-Alarm/Pictures/Album.jpg)

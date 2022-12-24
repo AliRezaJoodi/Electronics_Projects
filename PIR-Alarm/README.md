@@ -1,12 +1,12 @@
 ## PIR Alarm
-It's made with IR module. Module output is 0 or 1. So, It's using very easy.
+It's made with IR module. Module output is 0 or 1. So, It's using very easy.  
 I have tested it many times and worked great.
 
 ### Folders and Files Description
 It has included:
-- Hardware (Included hardware layers)
-- Pictures (Included photos samples made)
-- Simulate (Included simulator file)
+- `Hardware` (Included hardware layers)
+- `Pictures` (Included photos samples made)
+- `Simulate` (Included simulator file)
 
 ### Picture: v1.0
 ![](Pictures/v1.0.jpg)

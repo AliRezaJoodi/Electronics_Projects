@@ -1,0 +1,14 @@
+# Operating System folders and files for ignore
+desktop.ini
+
+# Personal folders and files for ignore
+_Pending
+
+# Altium Designer folders and files for ignore
+__Previews
+History
+
+# Proteus folders and files for ignore
+Project Backups
+*.workspace
+*.BMP

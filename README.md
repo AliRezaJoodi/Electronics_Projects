@@ -3,8 +3,8 @@ It's an archive of electronic projects. There are simple circuits, but useful.
  
 ### Gallery of the Repository
 ![](Alarm_PIR/Pictures/Album.jpg)
-![](CodeLock_RFID/Pictures/Album.jpg)
 ![](Clock_7SegmentDisplay/Pictures/Album.jpg)
+![](CodeLock_RFID/Pictures/Album.jpg)
 ![](GasDetector/Pictures/Album.jpg)
 ![](GasDetector_Model2/Pictures/Album.jpg)
 ![](NightLight/Pictures/Album.jpg)

@@ -2,7 +2,7 @@
 It made with `RF01D_ID3_Memory` module. Processing tasks do by the module. We add or delete new cards with two keys. It's a very easy project.
 I have tested it many times and worked great.
 
-Note: `RF01D_ID3_Memory` module is only available in the Iranian market. I don't know, Is there like the module in other places?
+Note: `RF01D_ID3_Memory` module is only available in the Iranian market. I don't know, Is there like the module in other country?
 
 ### Folders and Files Description
 It has included:

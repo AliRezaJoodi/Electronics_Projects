@@ -8,6 +8,10 @@ It's an archive of electronic projects. There are simple circuits, but useful.
 ![](GasDetector/Pictures/Album.jpg)
 ![](GasDetector_Model2/Pictures/Album.jpg)
 ![](NightLight/Pictures/Album.jpg)
+![](RemoteControl_RF_ASK_FixCode_2CH/Pictures/Album.jpg)
+![](RemoteControl_RF_ASK_FixCode_4CH/Pictures/Album.jpg)
+![](RemoteControl_RF_ASK_FixCode_4CH/Pictures/Album2.jpg)
+![](RemoteControl_RF_ASK_FixCode_6CH/Pictures/Album.jpg)
 
 <!--
 ### List of the Repository

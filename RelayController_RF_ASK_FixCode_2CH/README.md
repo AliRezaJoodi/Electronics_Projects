@@ -1,4 +1,4 @@
-## 6CH ASK RF Remote Controller (FixCode)
+## 2CH RF Remote Controller Using ASK RF Module and PT2262 Encoder (FixCode)
 I have tested it many times and worked great.
 
 ### Folders and Files Description
@@ -11,9 +11,6 @@ It has included:
 
 ### Schematic: Transfer v1.0
 ![](Hardware/Transfer_v1.0.png)
-
-### Schematic: Receiver(Model2) v1.0
-![](Hardware/Receiver_Model2_v1.0.png)
 
 ### Schematic: Receiver v1.0
 ![](Hardware/Receiver_v1.0.png)

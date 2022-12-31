@@ -2,7 +2,7 @@
 It's usable for MQx Gas Sensors.  
 I have tested it many times and worked great.
 
-Note: It is initial version and should get better.
+Note: It was a prototype and should get better.
 
 ### Folders and Files Description
 It has included:

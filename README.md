@@ -12,14 +12,4 @@ It's an archive of electronic projects. There are simple circuits, but useful.
 ![](GasDetector_Model2/Pictures/Album.jpg)
 ![](RelayController_RF_ASK_FixCode_4CH/Pictures/Album.jpg)
 ![](RelayController_RF_ASK_FixCode_4CH/Pictures/Album2.jpg)
-
-
-<!--
-### List of the Repository
-[PIR Alarm](Alarm_PIR)  
-[RFID Code Lock with 125KHz Tag](CodeLock_RFID)  
-[Digital Clock Using Logic Gates with 7Segment Display](Clock_7SegmentDisplay)  
-[Gas Leak Detector or Fire Alarm](GasDetector) 
-[Gas Leak Detector or Fire Alarm Model2](GasDetector_Model2)  
-[Night Light](NightLight)  
--->
+![](RelayController_LaserPointer_1CH/Pictures/Album.jpg)

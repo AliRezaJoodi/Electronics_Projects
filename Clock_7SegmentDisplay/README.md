@@ -1,6 +1,8 @@
 ##  Digital Clock Using Logic Gates 
 I have tested it and worked great.
 
+Note: It was my first-year college experience.
+
 ### Folders and Files Description
 It has included:
 - `Pictures` (Included photos samples made)

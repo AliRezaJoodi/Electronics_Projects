@@ -1,6 +1,8 @@
 ## 6CH RF Remote Controller Using ASK RF Module and PT2262 Encoder (FixCode)
 I have tested it many times and worked great.
 
+Note: PT2272-M6 decoder Use
+
 ### Folders and Files Description
 It has included:
 - `Hardware` (Included hardware layers)

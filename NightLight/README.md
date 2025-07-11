@@ -1,4 +1,4 @@
-## Night Light 
+## Night Light
 Note: It is initial version and should get better.
 
 ### Folders and Files Description

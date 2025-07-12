@@ -123,14 +123,14 @@ There are simple circuits, but useful.
   <tr>
     <td>
         <img
-        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayController_LaserPointer_1CH/Pictures/Album.jpg"
+        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayRemoteController_LaserPointer_1CH/Pictures/Album.jpg"
         alt="ts"
         width="150"
         height="80"
         />
     </td>
     <td>
-        <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayController_LaserPointer_1CH" target="_top">
+        <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayRemoteController_LaserPointer_1CH" target="_top">
         <span>1CH Relay Controller with Laser Pointer</span>
         </a> <br />
         <span style="color:#999">Sensor: LDR x2</span> <br />
@@ -142,14 +142,14 @@ There are simple circuits, but useful.
   <tr>
     <td>
         <img
-        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayController_RF_ASK_FixCode_2CH/Pictures/Album.jpg"
+        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayRemoteController_RF_ASK_FixCode_2CH/Pictures/Album.jpg"
         alt="ts"
         width="150"
         height="88"
         />
     </td>
     <td>
-        <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayController_RF_ASK_FixCode_2CH" target="_top">
+        <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayRemoteController_RF_ASK_FixCode_2CH" target="_top">
         <span>2CH RF Remote Controller Using ASK RF Module and PT2262 Encoder (FixCode)</span>
         </a> <br />
         <span style="color:#999">RF: ASK</span> <br />
@@ -162,14 +162,14 @@ There are simple circuits, but useful.
   <tr>
     <td>
         <img
-        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayController_RF_ASK_FixCode_4CH/Pictures/Album.jpg"
+        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayRemoteController_RF_ASK_FixCode_4CH/Pictures/Album.jpg"
         alt="ts"
         width="150"
-        height="102"
+        height="178"
         />
     </td>
     <td>
-        <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayController_RF_ASK_FixCode_4CH" target="_top">
+        <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayRemoteController_RF_ASK_FixCode_4CH" target="_top">
         <span>4CH RF Remote Controller Using ASK RF Module and PT2262 Encoder (FixCode)</span>
         </a> <br />
         <span style="color:#999">RF: ASK</span> <br />
@@ -182,14 +182,14 @@ There are simple circuits, but useful.
   <tr>
     <td>
         <img
-        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayController_RF_ASK_FixCode_6CH/Pictures/Album.jpg"
+        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayRemoteController_RF_ASK_FixCode_6CH/Pictures/Album.jpg"
         alt="ts"
         width="150"
         height="89"
         />
     </td>
     <td>
-        <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayController_RF_ASK_FixCode_6CH" target="_top">
+        <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayRemoteController_RF_ASK_FixCode_6CH" target="_top">
         <span>6CH RF Remote Controller Using ASK RF Module and PT2262 Encoder (FixCode)</span>
         </a> <br />
         <span style="color:#999">RF: ASK</span> <br />

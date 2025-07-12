@@ -1,22 +1,33 @@
-## 4CH RF Remote Controller Using ASK RF Module and PT2262 Encoder (FixCode)
-I have tested it many times and worked great.
+## Relay Remote Controller, RF, ASK, FixCode, 4CH
+Note: This is just a prototype and needs improvement.  
 
-### Folders and Files Description
-It has included:
-- `Hardware` (Included hardware layers)
-- `Pictures` (Included photos samples made)
-
-### Picture: Transfer v1.0
-![](Pictures/Transfer_v1.0.jpg)
-
-### Picture: Receiver v1.0
-![](Pictures/Receiver_v1.0.jpg)
-
-### Schematic: Transfer v1.1
+### Picture
+Transfer: v1.1  
 ![](Hardware/Transfer_v1.1.png)
 
-### Schematic: Receiver v1.0
+Transfer: v1.0  
+![](Pictures/Transfer_v1.0.jpg)
+
+Receiver: v1.0  
+![](Pictures/Receiver_v1.0.jpg)
+
+### Features
+- **Output Type:** Relay x4
+- **Relay Driver:** ULN2003
+- **Control Method:** Remote Controlled, RF, ASK
+- **Encoder:** FixCode, PT2262
+- **Decoder:** PT2272
+- **Power Supply:** x1
+
+### Folders and Files
+This project includes:
+- `Hardware` — Schematic and PCB layout with Proteus
+- `Pictures` — Project photos
+
+### Schematic
+Receiver: v1.0  
 ![](Hardware/Receiver_v1.0.png)
 
-My GitHub: [GitHub.com/AliRezaJoodi](https://github.com/AliRezaJoodi)  
-**Note**: [You can go here to download a single folder or file from GitHub.com](https://minhaskamal.github.io/DownGit/#/home)
+### More Information
+**Note**: [You can go here to download a single folder or file from GitHub.com](https://minhaskamal.github.io/DownGit/#/home)  
+My GitHub Account: [GitHub.com/AliRezaJoodi](https://github.com/AliRezaJoodi)  

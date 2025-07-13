@@ -2,9 +2,6 @@
 Note: This is just a prototype and needs improvement.  
 
 ### Picture
-Transfer: v1.1  
-![](Hardware/Transfer_v1.1.png)
-
 Transfer: v1.0  
 ![](Pictures/Transfer_v1.0.jpg)
 
@@ -25,6 +22,9 @@ This project includes:
 - `Pictures` — Project photos
 
 ### Schematic
+Transfer: v1.1  
+![](Hardware/Transfer_v1.1.png)
+
 Receiver: v1.0  
 ![](Hardware/Receiver_v1.0.png)
 

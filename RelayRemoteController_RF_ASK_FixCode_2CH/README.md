@@ -2,6 +2,9 @@
 Note: This is just a prototype and needs improvement.  
 
 ### Picture
+Receiver: v2.0  
+![](Pictures/Receiver_v2.0.jpg)
+
 v1.x   
 ![](Pictures/v1.x.jpg)
 

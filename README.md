@@ -145,12 +145,12 @@ There are simple circuits, but useful.
         src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayRemoteController_RF_ASK_FixCode_2CH/Pictures/Album.jpg"
         alt="ts"
         width="150"
-        height="88"
+        height="151"
         />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayRemoteController_RF_ASK_FixCode_2CH" target="_top">
-        <span>2CH RF Remote Controller Using ASK RF Module and PT2262 Encoder (FixCode)</span>
+        <span>Relay Remote Controller, RF, ASK, FixCode, 2CH</span>
         </a> <br />
         <span style="color:#999">RF: ASK</span> <br />
         <span style="color:#999">Encoder: FixCode, PT2262</span> <br />
@@ -170,7 +170,7 @@ There are simple circuits, but useful.
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayRemoteController_RF_ASK_FixCode_4CH" target="_top">
-        <span>4CH RF Remote Controller Using ASK RF Module and PT2262 Encoder (FixCode)</span>
+        <span>Relay Remote Controller, RF, ASK, FixCode, 4CH</span>
         </a> <br />
         <span style="color:#999">RF: ASK</span> <br />
         <span style="color:#999">Encoder: FixCode, PT2262</span> <br />
@@ -190,7 +190,7 @@ There are simple circuits, but useful.
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayRemoteController_RF_ASK_FixCode_6CH" target="_top">
-        <span>6CH RF Remote Controller Using ASK RF Module and PT2262 Encoder (FixCode)</span>
+        <span>Relay Remote Controller, RF, ASK, FixCode, 6CH</span>
         </a> <br />
         <span style="color:#999">RF: ASK</span> <br />
         <span style="color:#999">Encoder: FixCode, PT2262</span> <br />

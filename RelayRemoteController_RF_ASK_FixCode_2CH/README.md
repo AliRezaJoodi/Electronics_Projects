@@ -28,8 +28,8 @@ Transfer: Model1, v1.0
 Transfer: Model2, v1.0  
 ![](Hardware/Transfer_Model2_v1.0.png)
 
-Receiver: v1.0  
-![](Hardware/Receiver_v1.0.png)
+Receiver: v2.0  
+![](Hardware/Receiver_v2.0.png)
 
 ### More Information
 **Note**: [You can go here to download a single folder or file from GitHub.com](https://minhaskamal.github.io/DownGit/#/home)  

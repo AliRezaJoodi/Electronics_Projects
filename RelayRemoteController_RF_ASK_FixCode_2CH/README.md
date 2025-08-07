@@ -2,11 +2,11 @@
 Note: This is just a prototype and needs improvement.  
 
 ### Picture
-Receiver: v2.0  
-![](Pictures/Receiver_v2.0.jpg)
+Receiver: Model2, v1.0  
+![](Pictures_Receiver_Model2/v1.0.jpg)
 
-v1.x   
-![](Pictures/v1.x.jpg)
+Receiver: Model1, v1.0  
+![](Pictures_Receiver_Model1/v1.0.jpg)
 
 ### Features
 - **Output Type:** Relay x2
@@ -22,14 +22,17 @@ This project includes:
 - `Pictures` — Project photos
 
 ### Schematic
-Transfer: Model1, v1.0  
-![](Hardware/Transfer_Model1_v1.0.png)
-
 Transfer: Model2, v1.0  
-![](Hardware/Transfer_Model2_v1.0.png)
+![](Hardware_Transfer_Model2/v1.0.png)
 
-Receiver: v2.0  
-![](Hardware/Receiver_v2.0.png)
+Transfer: Model1, v1.0  
+![](Hardware_Transfer_Model1/v1.0.png)
+
+Receiver: Model2, v1.0  
+![](Hardware_Receiver_Model2/v1.0.png)
+
+Receiver: Model1, v1.0  
+![](Hardware_Receiver_Model1/v1.0.png)
 
 ### More Information
 **Note**: [You can go here to download a single folder or file from GitHub.com](https://minhaskamal.github.io/DownGit/#/home)  

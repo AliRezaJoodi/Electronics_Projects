@@ -142,7 +142,7 @@ There are simple circuits, but useful.
   <tr>
     <td>
         <img
-        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayRemoteController_RF_ASK_FixCode_2CH/Pictures/Album.jpg"
+        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayRemoteController_RF_ASK_FixCode_2CH/Pictures_Receiver_Model2/Album.jpg"
         alt="ts"
         width="150"
         height="151"
@@ -150,7 +150,27 @@ There are simple circuits, but useful.
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayRemoteController_RF_ASK_FixCode_2CH" target="_top">
-        <span>Relay Remote Controller, RF, ASK, FixCode, 2CH</span>
+        <span>Relay Remote Controller, RF, ASK, FixCode, 2CH, Model2</span>
+        </a> <br />
+        <span style="color:#999">RF: ASK</span> <br />
+        <span style="color:#999">Encoder: FixCode, PT2262</span> <br />
+        <span style="color:#999">Output: Relay x2</span> <br />
+    </td>
+  </tr>
+
+  <!-- ********************** -->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayRemoteController_RF_ASK_FixCode_2CH/Pictures_Receiver_Model1/Album.jpg"
+        alt="ts"
+        width="150"
+        height="97"
+        />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/RelayRemoteController_RF_ASK_FixCode_2CH" target="_top">
+        <span>Relay Remote Controller, RF, ASK, FixCode, 2CH, Model1</span>
         </a> <br />
         <span style="color:#999">RF: ASK</span> <br />
         <span style="color:#999">Encoder: FixCode, PT2262</span> <br />

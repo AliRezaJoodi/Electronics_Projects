@@ -3,10 +3,10 @@ Note: This is just a prototype and needs improvement.
 
 ### Picture
 Transfer: v1.0  
-![](Pictures/Transfer_v1.0.jpg)
+![]Pictures_Transfer/v1.0.jpg)
 
 Receiver: v1.0  
-![](Pictures/Receiver_v1.0.jpg)
+![](Pictures_Receiver/v1.0.jpg)
 
 ### Features
 - **Output Type:** Relay x4
@@ -23,10 +23,10 @@ This project includes:
 
 ### Schematic
 Transfer: v1.1  
-![](Hardware/Transfer_v1.1.png)
+![](Hardware_Transfer/v1.1.png)
 
 Receiver: v1.0  
-![](Hardware/Receiver_v1.0.png)
+![](Hardware_Receiver/v1.0.png)
 
 ### More Information
 **Note**: [You can go here to download a single folder or file from GitHub.com](https://minhaskamal.github.io/DownGit/#/home)  

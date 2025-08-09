@@ -182,7 +182,7 @@ There are simple circuits, but useful.
   <tr>
     <td>
         <img
-        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayRemoteController_RF_ASK_FixCode_4CH/Pictures/Album.jpg"
+        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/RelayRemoteController_RF_ASK_FixCode_4CH/Pictures_Receiver/Album.jpg"
         alt="ts"
         width="150"
         height="178"

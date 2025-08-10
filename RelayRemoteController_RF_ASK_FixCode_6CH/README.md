@@ -20,16 +20,16 @@ This project includes:
 
 ### Schematic
 Transfer: Model1, v1.0  
-![](Hardware/Transfer_Model1_v1.0.png)
+![](Hardware_Transfer_Model1/v1.0.png)
 
 Transfer: Model2, v1.0  
-![](Hardware/Transfer_Model2_v1.0.png)
+![](Hardware_Transfer_Model2/v1.0.png)
 
 Receiver: Model1, v1.0  
-![](Hardware/Receiver_Model1_v1.0.png)
+![](Hardware_Receiver_Model1/v1.0.png)
 
 Receiver: Model2, v1.0  
-![](Hardware/Receiver_Model2_v1.0.png)
+![](Hardware_Receiver_Model2/v1.0.png)
 
 ### More Information
 **Note**: [You can go here to download a single folder or file from GitHub.com](https://minhaskamal.github.io/DownGit/#/home)  

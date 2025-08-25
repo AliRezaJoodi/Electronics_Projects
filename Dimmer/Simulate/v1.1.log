@@ -1,0 +1,21 @@
+LTspice 24.1.10 for Windows
+Circuit: F:\GoogleDriveWork\Electronics\Projects_Dirgodaz Amol\Dimmer\Simulate\v1.0.net
+Start Time: Wed Oct 15 20:54:41 2025
+F:\GoogleDriveWork\Electronics\Projects_Dirgodaz Amol\Dimmer\Simulate\v1.0.net(12): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+X§U3 0 N006 N001 BTA16-600B ;§pnba MT2)G)MT1
+                                       ^
+solver = Normal
+Maximum thread count: 2
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n003 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.596 seconds.
+
+Files loaded:
+F:\GoogleDriveWork\Electronics\Projects_Dirgodaz Amol\Dimmer\Simulate\v1.0.net
+F:\GitHub\Electronics_Modules\_LTspice_Library\sub\MyLib\DIAC\Alexander_DB3.lib
+F:\GitHub\Electronics_Modules\_LTspice_Library\sub\MyLib\TRIAC\ST_TRIAC.lib
+

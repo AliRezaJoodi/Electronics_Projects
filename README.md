@@ -68,6 +68,24 @@ There are simple circuits, but useful.
   <tr>
     <td>
         <img
+        src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/Dimmer_1Phase/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="120"
+        />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/Dimmer_1Phase" target="_top">
+        <span>Single Phase Dimmer</span>
+        </a> <br />
+        <span style="color:#999">Output: 220V/AC</span> <br />
+    </td>
+  </tr>
+
+  <!-- ********************** -->
+  <tr>
+    <td>
+        <img
         src="https://github.com/AliRezaJoodi/Electronics_Projects/raw/main/GasDetector/Pictures/Album.jpg"
         alt="ts"
         width="150"

@@ -1,8 +1,12 @@
 ## 220V AC Voltage Protection Circuit
+Note: The design is not mine. This project is just an attempt to understand and simulate a commercial product circuit using LTspice.  
 
 ### Photo
-v1.0  
+v1.0, Top  
 ![](Pictures/v1.0.jpg) 
+
+v1.0, Bottom  
+![](Pictures/v1.0_Bottom.jpg) 
 
 ### Simulate
 v1.1, Schematic  

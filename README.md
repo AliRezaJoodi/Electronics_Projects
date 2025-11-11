@@ -79,6 +79,8 @@ There are simple circuits, but useful.
         <span>Single Phase Dimmer</span>
         </a> <br />
         <span style="color:#999">Output: 220V/AC</span> <br />
+        <span style="color:#999">Reverse engineering</span> <br />
+        <span style="color:#999">Simulation in LTspice</span> <br />
     </td>
   </tr>
 

@@ -1,6 +1,6 @@
 LTspice 24.1.10 for Windows
 Circuit: F:\GitHub\Electronics_Projects\Dimmer_1Phase\Simulate\v1.1.net
-Start Time: Sun Nov  2 06:50:30 2025
+Start Time: Tue Nov 11 15:48:05 2025
 F:\GitHub\Electronics_Projects\Dimmer_1Phase\Simulate\v1.1.net(12): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
 X§U1 0 N006 N001 BTA16-600B ;§pnba MT2)G)MT1
                                        ^
@@ -12,10 +12,10 @@ method = trap
 WARNING: Node n003 is floating.
 
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.463 seconds.
+Total elapsed time: 4.829 seconds.
 
 Files loaded:
 F:\GitHub\Electronics_Projects\Dimmer_1Phase\Simulate\v1.1.net
-F:\GitHub\Electronics_Exercises\_LTspice_Library\sub\MyLib\Diode_DIAC\DIAC_ST.lib
+F:\GitHub\Electronics_Exercises\_LTspice_Library\sub\MyLib\Diode_DIAC\_DIAC_ST.lib
 F:\GitHub\Electronics_Exercises\_LTspice_Library\sub\MyLib\TRIAC\_TRIAC_ST.lib
 

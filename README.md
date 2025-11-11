@@ -250,7 +250,7 @@ There are simple circuits, but useful.
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/VoltageProtector_1Phase" target="_top">
-        <span>220V AC Voltage Protection Circuit</span>
+        <span>220V AC Voltage Protection</span>
         </a> <br />
         <span style="color:#999">Reverse Engineering</span> <br />
         <span style="color:#999">Simulation in LTspice</span> <br />

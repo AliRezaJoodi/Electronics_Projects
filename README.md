@@ -252,7 +252,7 @@ There are simple circuits, but useful.
         <a href="https://github.com/AliRezaJoodi/Electronics_Projects/blob/main/VoltageProtector" target="_top">
         <span>220V AC Voltage Protection Circuit</span>
         </a> <br />
-        <span style="color:#999">Reverse engineering</span> <br />
+        <span style="color:#999">Reverse Engineering</span> <br />
         <span style="color:#999">Simulation in LTspice</span> <br />
     </td>
   </tr>

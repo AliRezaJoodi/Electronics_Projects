@@ -16,6 +16,7 @@ v1.1, Schematic
 ![](Simulate/v1.1_Schematic_4.png)  
 ![](Simulate/v1.1_Schematic_5.png)  
 ![](Simulate/v1.1_Schematic_6.png)  
+![](Simulate/v1.1_Schematic_7.png)  
 
 v1.1, Plot  
 ![](Simulate/v1.1_Plot.png)

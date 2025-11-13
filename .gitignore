@@ -12,3 +12,8 @@ History
 Project Backups
 *.workspace
 *.BMP
+
+# LTspice folders and files for ignore
+*.log
+*.raw
+*.op.raw
